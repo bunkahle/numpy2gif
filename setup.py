@@ -11,7 +11,7 @@ setup(
     py_modules=['numpy2gif'],
     python_requires='>=2.7',
     url='https://github.com/bunkahle/numpy2gif',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     platforms = ['any'],
     install_requires=['numpy'],
     keywords = 'GIF Converter from Numpy to GIF',
